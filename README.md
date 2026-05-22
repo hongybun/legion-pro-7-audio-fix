@@ -80,7 +80,7 @@ It should show
 6.19.11-16iax10h-audio
 ```
 
-## Build and isntall the kernel
+## Build and install the kernel
 
 ```bash
 make -j"$(nproc)"
