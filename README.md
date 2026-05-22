@@ -3,7 +3,7 @@ Fix for Ubuntu 24.04 LTS on the Lenovo Legion Pro 7, based on https://github.com
 
 ### Specs of computer used for this guide:
 
-Lenovo Legion Pro 7 16IAX10H laptop with Intel Ultra 9 275HX, NVIDIA 5080 Max-Q, 32GB RAM, and 1TB NVMe SSD running Ubuntu 24.04 LTS. If Secure Boot is required, additional signing steps will be required (included at the end of the guide).
+Lenovo Legion Pro 7 16IAX10H laptop with Intel Ultra 9 275HX, NVIDIA 5080 Max-Q, 32GB RAM, and 1TB NVMe SSD running Ubuntu 24.04 LTS. If Secure Boot is required, additional signing steps will be required that are out of the scope of this guide.
 
 ## Setup and dependencies
 
@@ -187,9 +187,6 @@ sudo rm -f /boot/*6.19.11-16iax10h-audio*
 sudo rm -rf /lib/modules/6.19.11-16iax10h-audio
 sudo update-grub
 ```
-
-## Enable secure boot
-
 
 ## Resources
 
