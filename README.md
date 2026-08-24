@@ -1,4 +1,4 @@
-# Ubuntu 24 audio fix for the Lenovo Legion Pro 7 16IAX10H
+# Ubuntu 24 audio fix for the Lenovo Legion Pro 7 16IAX10H (outdated)
 Fix for Ubuntu 24.04 LTS on the Lenovo Legion Pro 7, based on https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
 
 ### Specs of computer used for this guide:
